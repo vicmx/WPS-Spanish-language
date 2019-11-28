@@ -23,3 +23,6 @@ cd WPS-Office-Dict-es-ES
 ``
 cp -r es_ES ~/.local/share/Kingsoft/office6/dicts/
 ``
+
+## Fonts
+https://github.com/wachin/ttf-wps-fonts/releases/tag/1.0
